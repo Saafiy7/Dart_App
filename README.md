@@ -1,2 +1,6 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+## Palier 1 Captures et Question Comprehension :
+
+![Resultat de Palier 1](Captures/palier1.png)
+![Error tva const](Captures/errorConstant.png)
+
+//final est fixee une seule fois , const est constante conne a l'avance
