@@ -14,3 +14,8 @@
 
 ![Resultat](Captures/palier3.png)
 //flutter utilise des parametres nommes plutot que positionnels car positionnel est plus simple et facile
+
+## Palier 4 :
+
+![Resultat](Captures/palier4.png)
+//liste a des elements dans un ordre , et map des elements avec cle
