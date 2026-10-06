@@ -9,3 +9,8 @@
 
 ![Resultat](Captures/palier2.png)
 //null par defaut interdit en dart pour eviter les errors en programme
+
+## Palier 3 :
+
+![Resultat](Captures/palier3.png)
+//flutter utilise des parametres nommes plutot que positionnels car positionnel est plus simple et facile
