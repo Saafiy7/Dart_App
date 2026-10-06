@@ -19,3 +19,8 @@
 
 ![Resultat](Captures/palier4.png)
 //liste a des elements dans un ordre , et map des elements avec cle
+
+## Palier 5 :
+
+![Resultat](Captures/palier4.png)
+//pas etre modifier apres la creation de l'objet
